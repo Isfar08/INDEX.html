@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -5,7 +6,8 @@
   <meta name="keywords" content="html;css;javascript">
   <meta meta http-equiv="refresh" content="1000000000">
   <title>www.isfar.com </title>
-  <link rel="icon" type="image/x-icon" href="isfar.png"> </head>
+  <link rel="icon" type="image/x-icon" href="isfar.png">
+</head>
 
 <body>
   <h1 style="text-align:center;color:antiquewhite;font-size:80px; background-color: blue;">Introducing My Self</h1>
