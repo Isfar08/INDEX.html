@@ -11,7 +11,7 @@
 
 <body>
   <h1 style="text-align:center;color:antiquewhite;font-size:80px; background-color: blue;">Introducing My Self</h1>
-  <img src="isfar.png" width="50%" height="50%">
+  <img src="isfar.png" alt="" width="50%" height="50%">
   <table border="2" cellpadding="5" cellspacing="5" bgcolor="gold" bordercolor="#1789">
     <tr>
       <th style="background-color: green;font-size: 22px;">Name</th>
